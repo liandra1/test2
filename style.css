@@ -35,6 +35,12 @@ header {
     height: auto;
 
 }
+.L2 {
+    max-width : 100%;
+    width: 20vw;
+    height: auto;
+
+}
 li {
     display : inline;
     margin : 0 10px;
@@ -80,10 +86,9 @@ a.pink {
         border-radius: 5px;
         color: #ffffff;
         text-align: center;
-        font-size: 24px;
+        font-size: 2vw;
         padding: 20px 20px;
         box-shadow: #c0baba 2px 2px;
-        width:200px;
         margin: auto;
     }
     
